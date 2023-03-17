@@ -74,4 +74,4 @@ pip3 install pyrogram
 away and discover more in-depth material for building your client applications.
 - Join the official channel at https://t.me/pyrogram and stay tuned for news, updates and announcements.
 ### Heroku Deploy
-  - ![Deploy To Heroku](https://github.com/Moca96/nammetry)
+  - ![Deploy To Heroku](https://github.com/Moca96/pyrogram)
